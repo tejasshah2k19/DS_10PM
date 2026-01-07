@@ -1,0 +1,97 @@
+
+
+programming 
+	process of writing step by step instructions in a specific language that 
+	computer follows to perform the task / solve problems / app / s/w .
+	
+	 
+programming language 
+	formal set of instruction , rule , syntax that will used to communicate with 
+	the computers. 
+	C C++ Java Python Ruby 
+
+data structure 
+	data 
+	algo 
+
+	
+							classification of 
+							Data Structures 
+			Linear 											Non Linear 
+		{data are arranged in sequentially,linearly }		not in sequentially
+		
+		Array												Tree 
+		Stack 												Graph 
+		Queue
+		LinkedList
+		 
+
+Asymptotic notation ---> algo efficiency { time / space } 
+
+-------------------------------------------------------------------------------------
+
+Array ->  collection of same type of data type 
+
+	int a; 
+	
+	a = 10;
+	//
+	//
+	//	
+	a = 20; 
+	 
+	
+	int a[5]; //c 4 byte 5*4 byte => 20 bytes 
+	
+	we can access array using index 
+	index starts with zero and ends with size-1
+	if you access an index which does not exists you will get an exception { runtime error } 
+	
+	int x[] ; //declaration 
+	x = new int[5]; //initialize 
+	
+	
+	int k[] = new int[5];//declare initialize 
+	
+	one dimension [] 
+		
+----------------------------------------------------------------------------------------	
+ 1) insertion of an element at given location 
+ 2) remove element from array by location 
+ 3) search element in array 
+ 		1)	linear search - sequential search 
+ 		2)	binary search 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
