@@ -62,6 +62,9 @@ Array ->  collection of same type of data type
  		1)	linear search - sequential search 
  		2)	binary search 
 
+search
+Linear Search
+Binary Search 
 
 
 
